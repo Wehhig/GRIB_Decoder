@@ -1,0 +1,27 @@
+Sekcja0 dlugosc=4538 bajtow
+Sekcja1 dlugosc=28
+  GDS=true  BMS=false
+  skala_dz=1
+  data=2010-3-15  0:0
+Sekcja2 dlugosc=178
+  Wiersz/kolumna: -1, 73
+  la1=0  lo1=-30  la2=90  lo2=60
+  bajt 29=0
+  bajt 30=0
+  bajt 31=0
+  bajt 32=0
+  bajt 33=0
+Sekcja4 dlugosc=4320
+  ref_val=-102
+  bits_per=10
+  w1=125
+  w2=133
+  w3=130
+  Polaczone 30 bitow=131208322
+Suma=4534 dl=4538
+
+Proba odczytu danych:
+  dana nr 1=2.3
+  dana nr 2=3.1
+  dana nr 3=2.8
+Znaleziono 7777 - koniec
